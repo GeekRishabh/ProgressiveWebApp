@@ -6,17 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vikashsinghcse/uno-pwa.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/vikashsinghcse/uno-pwa/issues"
-  },
-  "homepage": "https://github.com/vikashsinghcse/uno-pwa#readme",
   "devDependencies": {
     "babel": "^6.5.2",
     "babel-core": "^6.21.0",
